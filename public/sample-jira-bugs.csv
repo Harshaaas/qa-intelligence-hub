@@ -1,0 +1,232 @@
+Summary,Issue key,Issue id,Issue Type,Status,Priority,Assignee,Created,Resolved,Sprint,Sprint,Component/s,Custom field (Team),Custom field (Root Cause),Custom field (Story Points),Project name
+Requirements gap: defect in reports flow,ALPHA-1122,51122,Bug,Closed,High,Vikram Rao,28/Oct/24 09:12 AM,05/Nov/24 12:00 PM,,Alpha Sprint 5,Reports,Nova,Requirements gap,3,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1171,51171,Bug,Done,Medium,Arjun Das,07/Nov/24 03:14 PM,13/Nov/24 05:33 AM,,Alpha Sprint 6,Reports,Nova,Environment / config,5,Project Alpha
+Coding error: defect in payments flow,ALPHA-1005,51005,Bug,Closed,Medium,Karan Patel,02/Sep/24 12:08 AM,09/Sep/24 02:41 AM,,Alpha Sprint 1,Payments,Orion,Coding error,2,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1191,51191,Bug,Done,Medium,Meera Nair,24/Nov/24 12:54 PM,03/Dec/24 06:02 AM,,Alpha Sprint 7,Payments,Orion,Requirements gap,5,Project Alpha
+Coding error: defect in payments flow,ALPHA-1145,51145,Bug,In Progress,Medium,Sneha Iyer,04/Nov/24 10:53 PM,06/Nov/24 06:57 AM,Alpha Sprint 5,Alpha Sprint 6,Payments,Orion,Coding error,3,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1019,51019,Bug,In Progress,Highest,Arjun Das,26/Aug/24 11:48 PM,31/Aug/24 11:34 PM,,Alpha Sprint 1,Reports,Nova,Requirements gap,3,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1183,51183,Bug,In Progress,Highest,Karan Patel,12/Nov/24 03:50 AM,16/Nov/24 10:55 AM,,Alpha Sprint 6,Reports,Nova,Requirements gap,5,Project Alpha
+Coding error: defect in checkout flow,ALPHA-1027,51027,Bug,Done,Low,Meera Nair,21/Sep/24 11:06 AM,28/Sep/24 08:08 AM,,Alpha Sprint 2,Checkout,Phoenix,Coding error,5,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1225,51225,Bug,In Progress,Medium,Meera Nair,04/Dec/24 05:59 AM,09/Dec/24 08:28 AM,,Alpha Sprint 8,Reports,Nova,Requirements gap,2,Project Alpha
+Coding error: defect in reports flow,ALPHA-1045,51045,Bug,Closed,Highest,Vikram Rao,11/Sep/24 12:42 AM,15/Sep/24 04:52 AM,,Alpha Sprint 2,Reports,Nova,Coding error,3,Project Alpha
+Documentation: defect in checkout flow,ALPHA-1135,51135,Bug,Done,Low,Vikram Rao,05/Nov/24 03:21 PM,07/Nov/24 03:08 PM,,Alpha Sprint 6,Checkout,Phoenix,Documentation,1,Project Alpha
+User story 1024,ALPHA-1024,51024,Story,Done,Medium,Arjun Das,04/Sep/24 09:04 PM,,,Alpha Sprint 1,,Phoenix,,5,Project Alpha
+Coding error: defect in reports flow,ALPHA-1198,51198,Bug,Done,Medium,Meera Nair,28/Nov/24 10:44 PM,04/Dec/24 08:37 AM,,Alpha Sprint 7,Reports,Nova,Coding error,3,Project Alpha
+UI / UX: defect in authentication flow,ALPHA-1007,51007,Bug,Done,Medium,Vikram Rao,04/Sep/24 07:35 AM,09/Sep/24 04:29 PM,,Alpha Sprint 1,Authentication,Titan,UI / UX,5,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1217,51217,Bug,Done,Low,Karan Patel,04/Dec/24 11:00 PM,06/Dec/24 04:50 AM,,Alpha Sprint 8,Authentication,Titan,Integration issue,3,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1156,51156,Bug,Done,High,Sneha Iyer,13/Nov/24 06:36 AM,21/Nov/24 05:38 AM,,Alpha Sprint 6,Authentication,Titan,Integration issue,5,Project Alpha
+Test data: defect in checkout flow,ALPHA-1111,51111,Bug,Done,Highest,Meera Nair,26/Oct/24 02:45 PM,02/Nov/24 08:21 PM,,Alpha Sprint 5,Checkout,Phoenix,Test data,3,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1040,51040,Bug,Closed,High,Vikram Rao,12/Sep/24 08:10 PM,19/Sep/24 11:05 PM,,Alpha Sprint 2,Authentication,Titan,Requirements gap,5,Project Alpha
+Integration issue: defect in payments flow,ALPHA-1138,51138,Bug,Done,Medium,Arjun Das,15/Nov/24 04:02 PM,22/Nov/24 07:52 AM,,Alpha Sprint 6,Payments,Orion,Integration issue,2,Project Alpha
+Coding error: defect in reports flow,ALPHA-1047,51047,Bug,Closed,High,Vikram Rao,09/Sep/24 06:27 PM,17/Sep/24 05:56 PM,Alpha Sprint 1,Alpha Sprint 2,Reports,Nova,Coding error,3,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1003,51003,Bug,Done,Medium,Karan Patel,03/Sep/24 12:13 AM,11/Sep/24 07:23 PM,,Alpha Sprint 1,Checkout,Phoenix,Requirements gap,8,Project Alpha
+Coding error: defect in reports flow,ALPHA-1106,51106,Bug,Closed,Medium,Vikram Rao,10/Oct/24 12:35 AM,18/Oct/24 04:31 AM,,Alpha Sprint 4,Reports,Nova,Coding error,5,Project Alpha
+Coding error: defect in payments flow,ALPHA-1066,51066,Bug,In Progress,Low,Meera Nair,05/Oct/24 04:36 AM,08/Oct/24 08:32 PM,,Alpha Sprint 3,Payments,Orion,Coding error,3,Project Alpha
+Coding error: defect in payments flow,ALPHA-1030,51030,Bug,Done,High,Arjun Das,12/Sep/24 04:44 PM,15/Sep/24 09:39 AM,,Alpha Sprint 2,Payments,Orion,Coding error,8,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1215,51215,Bug,Closed,High,Sneha Iyer,08/Dec/24 01:53 AM,10/Dec/24 02:35 PM,,Alpha Sprint 8,Payments,Orion,Requirements gap,3,Project Alpha
+UI / UX: defect in reports flow,ALPHA-1202,51202,Bug,Done,High,Meera Nair,19/Nov/24 11:30 AM,24/Nov/24 05:12 PM,,Alpha Sprint 7,Reports,Nova,UI / UX,2,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1178,51178,Bug,Closed,Medium,Sneha Iyer,11/Nov/24 11:33 AM,14/Nov/24 12:50 PM,,Alpha Sprint 6,Reports,Nova,Requirements gap,8,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1179,51179,Bug,In Progress,High,Sneha Iyer,16/Nov/24 09:45 AM,22/Nov/24 03:33 AM,,Alpha Sprint 6,Reports,Nova,Integration issue,3,Project Alpha
+Integration issue: defect in checkout flow,ALPHA-1060,51060,Bug,Done,Medium,Sneha Iyer,26/Sep/24 10:10 PM,30/Sep/24 12:16 AM,Alpha Sprint 2,Alpha Sprint 3,Checkout,Phoenix,Integration issue,3,Project Alpha
+User story 1187,ALPHA-1187,51187,Story,Done,Medium,Arjun Das,07/Nov/24 05:05 AM,,,Alpha Sprint 6,,Phoenix,,5,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1101,51101,Bug,Done,Medium,Karan Patel,16/Oct/24 12:27 AM,21/Oct/24 10:29 PM,,Alpha Sprint 4,Reports,Nova,Environment / config,1,Project Alpha
+Integration issue: defect in payments flow,ALPHA-1033,51033,Bug,Done,Low,Sneha Iyer,16/Sep/24 08:34 PM,18/Sep/24 06:13 AM,,Alpha Sprint 2,Payments,Orion,Integration issue,8,Project Alpha
+Environment / config: defect in payments flow,ALPHA-1192,51192,Bug,Done,Medium,Arjun Das,23/Nov/24 03:38 PM,02/Dec/24 04:24 AM,,Alpha Sprint 7,Payments,Orion,Environment / config,3,Project Alpha
+Test data: defect in authentication flow,ALPHA-1158,51158,Bug,Done,High,Vikram Rao,15/Nov/24 01:53 PM,16/Nov/24 05:53 AM,,Alpha Sprint 6,Authentication,Titan,Test data,1,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1093,51093,Bug,Done,High,Meera Nair,18/Oct/24 01:18 AM,25/Oct/24 01:09 PM,,Alpha Sprint 4,Authentication,Titan,Environment / config,3,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1127,51127,Bug,Done,High,Meera Nair,24/Oct/24 05:41 AM,28/Oct/24 06:34 PM,,Alpha Sprint 5,Reports,Nova,Requirements gap,2,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1180,51180,Bug,Done,Medium,Sneha Iyer,05/Nov/24 02:23 AM,10/Nov/24 09:56 PM,,Alpha Sprint 6,Reports,Nova,Requirements gap,1,Project Alpha
+Coding error: defect in reports flow,ALPHA-1104,51104,Bug,Done,High,Meera Nair,09/Oct/24 01:29 PM,15/Oct/24 02:42 PM,,Alpha Sprint 4,Reports,Nova,Coding error,1,Project Alpha
+Test data: defect in payments flow,ALPHA-1092,51092,Bug,Done,Low,Karan Patel,11/Oct/24 11:33 AM,17/Oct/24 01:03 AM,,Alpha Sprint 4,Payments,Orion,Test data,2,Project Alpha
+Performance: defect in payments flow,ALPHA-1144,51144,Bug,Done,Medium,Sneha Iyer,13/Nov/24 07:15 PM,17/Nov/24 12:42 AM,,Alpha Sprint 6,Payments,Orion,Performance,5,Project Alpha
+Integration issue: defect in checkout flow,ALPHA-1002,51002,Bug,Done,Medium,Arjun Das,29/Aug/24 04:29 PM,30/Aug/24 04:33 PM,,Alpha Sprint 1,Checkout,Phoenix,Integration issue,1,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1204,51204,Bug,Done,Low,Arjun Das,23/Nov/24 06:36 AM,29/Nov/24 09:37 PM,,Alpha Sprint 7,Reports,Nova,Requirements gap,1,Project Alpha
+User story 1055,ALPHA-1055,51055,Story,Done,Medium,Arjun Das,18/Sep/24 05:22 AM,,,Alpha Sprint 2,,Phoenix,,5,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1194,51194,Bug,Done,Medium,Karan Patel,22/Nov/24 01:24 AM,24/Nov/24 07:04 PM,,Alpha Sprint 7,Authentication,Titan,Coding error,2,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1048,51048,Bug,Done,Highest,Arjun Das,18/Sep/24 09:28 AM,20/Sep/24 11:17 AM,Alpha Sprint 1,Alpha Sprint 2,Reports,Nova,Requirements gap,3,Project Alpha
+Coding error: defect in checkout flow,ALPHA-1209,51209,Bug,Done,High,Sneha Iyer,06/Dec/24 04:07 PM,08/Dec/24 05:26 AM,,Alpha Sprint 8,Checkout,Phoenix,Coding error,5,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1039,51039,Bug,Done,Highest,Sneha Iyer,13/Sep/24 09:25 PM,18/Sep/24 05:55 PM,,Alpha Sprint 2,Authentication,Titan,Requirements gap,2,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1021,51021,Bug,Done,High,Meera Nair,02/Sep/24 01:24 PM,05/Sep/24 08:39 PM,,Alpha Sprint 1,Reports,Nova,Requirements gap,3,Project Alpha
+User story 1186,ALPHA-1186,51186,Story,Done,Medium,Arjun Das,15/Nov/24 12:50 PM,,,Alpha Sprint 6,,Phoenix,,5,Project Alpha
+Coding error: defect in reports flow,ALPHA-1175,51175,Bug,Done,Medium,Meera Nair,14/Nov/24 11:06 AM,18/Nov/24 03:53 PM,,Alpha Sprint 6,Reports,Nova,Coding error,5,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1077,51077,Bug,Done,Medium,Arjun Das,03/Oct/24 02:56 PM,11/Oct/24 10:36 PM,,Alpha Sprint 3,Reports,Nova,Integration issue,5,Project Alpha
+User story 1110,ALPHA-1110,51110,Story,Done,Medium,Arjun Das,11/Oct/24 09:33 PM,,,Alpha Sprint 4,,Phoenix,,5,Project Alpha
+Coding error: defect in reports flow,ALPHA-1184,51184,Bug,Done,Medium,Sneha Iyer,14/Nov/24 01:35 PM,15/Nov/24 06:30 PM,,Alpha Sprint 6,Reports,Nova,Coding error,2,Project Alpha
+Environment / config: defect in payments flow,ALPHA-1136,51136,Bug,Closed,Medium,Karan Patel,07/Nov/24 04:37 PM,16/Nov/24 05:20 AM,,Alpha Sprint 6,Payments,Orion,Environment / config,5,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1028,51028,Bug,Done,Medium,Meera Nair,14/Sep/24 09:48 PM,21/Sep/24 01:39 PM,,Alpha Sprint 2,Checkout,Phoenix,Requirements gap,2,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1219,51219,Bug,Closed,Low,Vikram Rao,06/Dec/24 06:01 AM,14/Dec/24 06:55 PM,,Alpha Sprint 8,Authentication,Titan,Requirements gap,3,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1221,51221,Bug,Done,High,Meera Nair,14/Dec/24 07:34 PM,15/Dec/24 10:07 PM,,Alpha Sprint 8,Authentication,Titan,Coding error,1,Project Alpha
+Test data: defect in authentication flow,ALPHA-1097,51097,Bug,In Progress,Medium,Vikram Rao,18/Oct/24 02:34 PM,20/Oct/24 03:17 AM,,Alpha Sprint 4,Authentication,Titan,Test data,3,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1193,51193,Bug,Closed,Medium,Karan Patel,29/Nov/24 09:27 AM,08/Dec/24 04:38 AM,,Alpha Sprint 7,Authentication,Titan,Requirements gap,5,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1220,51220,Bug,In Progress,High,Vikram Rao,05/Dec/24 01:42 AM,08/Dec/24 04:35 PM,,Alpha Sprint 8,Authentication,Titan,Requirements gap,8,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1154,51154,Bug,Done,Medium,Karan Patel,04/Nov/24 07:46 PM,09/Nov/24 12:49 AM,,Alpha Sprint 6,Authentication,Titan,Requirements gap,3,Project Alpha
+Test data: defect in payments flow,ALPHA-1116,51116,Bug,Closed,Low,Karan Patel,27/Oct/24 09:21 AM,03/Nov/24 08:25 PM,,Alpha Sprint 5,Payments,Orion,Test data,3,Project Alpha
+Documentation: defect in checkout flow,ALPHA-1025,51025,Bug,Done,Medium,Karan Patel,20/Sep/24 03:03 AM,23/Sep/24 02:21 PM,Alpha Sprint 1,Alpha Sprint 2,Checkout,Phoenix,Documentation,3,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1147,51147,Bug,Done,Medium,Vikram Rao,16/Nov/24 05:49 PM,23/Nov/24 01:51 PM,,Alpha Sprint 6,Authentication,Titan,Coding error,5,Project Alpha
+Environment / config: defect in payments flow,ALPHA-1088,51088,Bug,Done,High,Meera Nair,13/Oct/24 03:10 AM,18/Oct/24 09:38 AM,,Alpha Sprint 4,Payments,Orion,Environment / config,2,Project Alpha
+Test data: defect in payments flow,ALPHA-1142,51142,Bug,Done,Medium,Karan Patel,05/Nov/24 08:12 PM,13/Nov/24 01:08 PM,,Alpha Sprint 6,Payments,Orion,Test data,2,Project Alpha
+Documentation: defect in reports flow,ALPHA-1124,51124,Bug,Done,High,Sneha Iyer,01/Nov/24 02:48 AM,07/Nov/24 01:13 AM,,Alpha Sprint 5,Reports,Nova,Documentation,3,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1068,51068,Bug,Done,High,Vikram Rao,30/Sep/24 06:06 PM,01/Oct/24 04:12 PM,,Alpha Sprint 3,Authentication,Titan,Environment / config,5,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1082,51082,Bug,Closed,Low,Karan Patel,20/Oct/24 02:20 AM,23/Oct/24 05:03 AM,,Alpha Sprint 4,Checkout,Phoenix,Requirements gap,5,Project Alpha
+Coding error: defect in reports flow,ALPHA-1072,51072,Bug,Done,Medium,Vikram Rao,28/Sep/24 10:19 PM,02/Oct/24 03:12 PM,Alpha Sprint 2,Alpha Sprint 3,Reports,Nova,Coding error,2,Project Alpha
+UI / UX: defect in reports flow,ALPHA-1182,51182,Bug,In Progress,Low,Sneha Iyer,04/Nov/24 07:53 PM,10/Nov/24 05:51 AM,,Alpha Sprint 6,Reports,Nova,UI / UX,5,Project Alpha
+User story 1109,ALPHA-1109,51109,Story,Done,Medium,Arjun Das,09/Oct/24 02:33 PM,,,Alpha Sprint 4,,Phoenix,,5,Project Alpha
+Documentation: defect in authentication flow,ALPHA-1037,51037,Bug,Done,High,Arjun Das,21/Sep/24 09:22 PM,26/Sep/24 12:46 PM,,Alpha Sprint 2,Authentication,Titan,Documentation,5,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1059,51059,Bug,Done,Low,Karan Patel,04/Oct/24 09:25 AM,12/Oct/24 03:09 PM,Alpha Sprint 2,Alpha Sprint 3,Checkout,Phoenix,Requirements gap,3,Project Alpha
+Coding error: defect in reports flow,ALPHA-1227,51227,Bug,In Progress,High,Vikram Rao,12/Dec/24 02:06 PM,15/Dec/24 03:08 AM,,Alpha Sprint 8,Reports,Nova,Coding error,5,Project Alpha
+Test data: defect in authentication flow,ALPHA-1149,51149,Bug,Done,Low,Meera Nair,09/Nov/24 12:20 AM,10/Nov/24 08:01 PM,,Alpha Sprint 6,Authentication,Titan,Test data,3,Project Alpha
+Integration issue: defect in checkout flow,ALPHA-1133,51133,Bug,In Progress,Low,Vikram Rao,09/Nov/24 10:03 PM,15/Nov/24 09:10 PM,,Alpha Sprint 6,Checkout,Phoenix,Integration issue,2,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1103,51103,Bug,Done,Medium,Meera Nair,09/Oct/24 09:15 PM,12/Oct/24 02:45 AM,,Alpha Sprint 4,Reports,Nova,Environment / config,8,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1200,51200,Bug,Done,Medium,Vikram Rao,19/Nov/24 03:59 PM,27/Nov/24 01:37 PM,,Alpha Sprint 7,Reports,Nova,Integration issue,5,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1128,51128,Bug,Done,Low,Arjun Das,22/Oct/24 06:01 AM,28/Oct/24 09:46 AM,,Alpha Sprint 5,Reports,Nova,Requirements gap,3,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1169,51169,Bug,Closed,High,Sneha Iyer,14/Nov/24 09:35 PM,17/Nov/24 01:51 AM,,Alpha Sprint 6,Reports,Nova,Integration issue,8,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1051,51051,Bug,Done,High,Arjun Das,09/Sep/24 06:27 PM,12/Sep/24 05:56 AM,,Alpha Sprint 2,Reports,Nova,Integration issue,5,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1064,51064,Bug,Closed,Medium,Karan Patel,30/Sep/24 03:21 AM,03/Oct/24 11:44 PM,,Alpha Sprint 3,Payments,Orion,Requirements gap,5,Project Alpha
+Test data: defect in payments flow,ALPHA-1190,51190,Bug,Done,Medium,Arjun Das,22/Nov/24 03:53 PM,24/Nov/24 01:45 PM,,Alpha Sprint 7,Payments,Orion,Test data,5,Project Alpha
+Coding error: defect in reports flow,ALPHA-1075,51075,Bug,Closed,Medium,Sneha Iyer,24/Sep/24 03:15 PM,03/Oct/24 12:36 AM,,Alpha Sprint 3,Reports,Nova,Coding error,3,Project Alpha
+Documentation: defect in reports flow,ALPHA-1173,51173,Bug,Done,Medium,Meera Nair,04/Nov/24 03:46 PM,11/Nov/24 10:02 AM,,Alpha Sprint 6,Reports,Nova,Documentation,2,Project Alpha
+User story 1129,ALPHA-1129,51129,Story,Done,Medium,Arjun Das,29/Oct/24 02:33 AM,,,Alpha Sprint 5,,Phoenix,,5,Project Alpha
+Coding error: defect in checkout flow,ALPHA-1001,51001,Bug,Done,Low,Meera Nair,02/Sep/24 11:07 AM,03/Sep/24 10:57 AM,,Alpha Sprint 1,Checkout,Phoenix,Coding error,2,Project Alpha
+User story 1206,ALPHA-1206,51206,Story,Done,Medium,Arjun Das,28/Nov/24 04:32 AM,,,Alpha Sprint 7,,Phoenix,,5,Project Alpha
+Coding error: defect in reports flow,ALPHA-1053,51053,Bug,Done,High,Arjun Das,19/Sep/24 04:27 AM,20/Sep/24 08:52 PM,,Alpha Sprint 2,Reports,Nova,Coding error,3,Project Alpha
+Coding error: defect in reports flow,ALPHA-1017,51017,Bug,Done,Low,Meera Nair,28/Aug/24 09:21 AM,31/Aug/24 08:13 PM,,Alpha Sprint 1,Reports,Nova,Coding error,5,Project Alpha
+UI / UX: defect in checkout flow,ALPHA-1210,51210,Bug,In Progress,High,Karan Patel,11/Dec/24 06:20 PM,12/Dec/24 01:40 PM,,Alpha Sprint 8,Checkout,Phoenix,UI / UX,5,Project Alpha
+UI / UX: defect in authentication flow,ALPHA-1100,51100,Bug,Done,Medium,Sneha Iyer,13/Oct/24 07:40 PM,21/Oct/24 11:09 AM,Alpha Sprint 3,Alpha Sprint 4,Authentication,Titan,UI / UX,3,Project Alpha
+Coding error: defect in payments flow,ALPHA-1143,51143,Bug,Done,Medium,Vikram Rao,14/Nov/24 09:15 PM,17/Nov/24 09:20 PM,,Alpha Sprint 6,Payments,Orion,Coding error,1,Project Alpha
+User story 1081,ALPHA-1081,51081,Story,Done,Medium,Arjun Das,29/Sep/24 08:44 AM,,,Alpha Sprint 3,,Phoenix,,5,Project Alpha
+Performance: defect in payments flow,ALPHA-1035,51035,Bug,Done,Highest,Karan Patel,15/Sep/24 10:23 AM,19/Sep/24 11:55 PM,,Alpha Sprint 2,Payments,Orion,Performance,5,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1223,51223,Bug,Done,Low,Karan Patel,05/Dec/24 08:15 AM,06/Dec/24 05:11 PM,,Alpha Sprint 8,Authentication,Titan,Requirements gap,3,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1119,51119,Bug,Done,High,Arjun Das,03/Nov/24 02:47 AM,05/Nov/24 12:28 AM,,Alpha Sprint 5,Authentication,Titan,Environment / config,3,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1096,51096,Bug,Closed,Medium,Karan Patel,13/Oct/24 04:16 AM,21/Oct/24 10:35 PM,,Alpha Sprint 4,Authentication,Titan,Requirements gap,8,Project Alpha
+Coding error: defect in payments flow,ALPHA-1114,51114,Bug,Done,High,Vikram Rao,30/Oct/24 03:58 AM,02/Nov/24 11:30 PM,,Alpha Sprint 5,Payments,Orion,Coding error,3,Project Alpha
+Test data: defect in reports flow,ALPHA-1013,51013,Bug,In Progress,High,Sneha Iyer,03/Sep/24 09:48 AM,04/Sep/24 11:24 PM,,Alpha Sprint 1,Reports,Nova,Test data,5,Project Alpha
+Coding error: defect in reports flow,ALPHA-1168,51168,Bug,In Progress,Highest,Sneha Iyer,14/Nov/24 03:33 PM,18/Nov/24 01:39 PM,,Alpha Sprint 6,Reports,Nova,Coding error,8,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1226,51226,Bug,In Progress,Medium,Meera Nair,14/Dec/24 04:59 PM,20/Dec/24 02:31 PM,,Alpha Sprint 8,Reports,Nova,Integration issue,1,Project Alpha
+Coding error: defect in reports flow,ALPHA-1176,51176,Bug,Closed,High,Vikram Rao,09/Nov/24 12:59 AM,16/Nov/24 11:04 PM,,Alpha Sprint 6,Reports,Nova,Coding error,3,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1195,51195,Bug,Done,Medium,Arjun Das,22/Nov/24 05:15 AM,29/Nov/24 01:53 PM,,Alpha Sprint 7,Authentication,Titan,Integration issue,8,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1205,51205,Bug,Closed,Low,Karan Patel,29/Nov/24 06:35 AM,06/Dec/24 11:00 AM,,Alpha Sprint 7,Reports,Nova,Environment / config,3,Project Alpha
+Coding error: defect in payments flow,ALPHA-1115,51115,Bug,In Progress,Highest,Meera Nair,27/Oct/24 03:06 AM,31/Oct/24 10:14 AM,Alpha Sprint 4,Alpha Sprint 5,Payments,Orion,Coding error,3,Project Alpha
+User story 1230,ALPHA-1230,51230,Story,Done,Medium,Arjun Das,04/Dec/24 07:29 PM,,,Alpha Sprint 8,,Phoenix,,5,Project Alpha
+UI / UX: defect in authentication flow,ALPHA-1155,51155,Bug,In Progress,Medium,Meera Nair,12/Nov/24 08:35 AM,19/Nov/24 03:44 AM,,Alpha Sprint 6,Authentication,Titan,UI / UX,3,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1151,51151,Bug,Done,Medium,Karan Patel,14/Nov/24 02:28 AM,20/Nov/24 06:00 PM,,Alpha Sprint 6,Authentication,Titan,Integration issue,3,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1044,51044,Bug,Done,Medium,Karan Patel,20/Sep/24 03:42 AM,20/Sep/24 11:14 PM,,Alpha Sprint 2,Reports,Nova,Requirements gap,5,Project Alpha
+Performance: defect in reports flow,ALPHA-1054,51054,Bug,Closed,Medium,Sneha Iyer,10/Sep/24 11:53 AM,16/Sep/24 09:51 AM,,Alpha Sprint 2,Reports,Nova,Performance,8,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1020,51020,Bug,Done,High,Vikram Rao,08/Sep/24 09:11 AM,14/Sep/24 07:13 PM,,Alpha Sprint 1,Reports,Nova,Requirements gap,3,Project Alpha
+User story 1185,ALPHA-1185,51185,Story,Done,Medium,Arjun Das,17/Nov/24 04:50 AM,,,Alpha Sprint 6,,Phoenix,,5,Project Alpha
+Coding error: defect in payments flow,ALPHA-1087,51087,Bug,Done,Low,Sneha Iyer,16/Oct/24 03:19 AM,19/Oct/24 07:36 PM,,Alpha Sprint 4,Payments,Orion,Coding error,3,Project Alpha
+Coding error: defect in reports flow,ALPHA-1196,51196,Bug,Done,Medium,Arjun Das,18/Nov/24 03:00 PM,23/Nov/24 05:16 PM,,Alpha Sprint 7,Reports,Nova,Coding error,8,Project Alpha
+Coding error: defect in reports flow,ALPHA-1125,51125,Bug,Done,Medium,Arjun Das,23/Oct/24 12:31 PM,27/Oct/24 04:42 PM,,Alpha Sprint 5,Reports,Nova,Coding error,1,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1014,51014,Bug,Closed,Medium,Meera Nair,07/Sep/24 07:53 AM,15/Sep/24 06:17 AM,,Alpha Sprint 1,Reports,Nova,Environment / config,2,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1098,51098,Bug,In Progress,Medium,Sneha Iyer,10/Oct/24 01:07 AM,12/Oct/24 03:10 PM,,Alpha Sprint 4,Authentication,Titan,Requirements gap,5,Project Alpha
+UI / UX: defect in authentication flow,ALPHA-1095,51095,Bug,Done,Medium,Karan Patel,14/Oct/24 04:00 PM,23/Oct/24 11:59 AM,,Alpha Sprint 4,Authentication,Titan,UI / UX,2,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1046,51046,Bug,Closed,Highest,Sneha Iyer,22/Sep/24 06:15 AM,29/Sep/24 08:02 PM,,Alpha Sprint 2,Reports,Nova,Environment / config,2,Project Alpha
+UI / UX: defect in authentication flow,ALPHA-1150,51150,Bug,Done,Medium,Arjun Das,11/Nov/24 10:42 PM,16/Nov/24 08:57 AM,,Alpha Sprint 6,Authentication,Titan,UI / UX,2,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1107,51107,Bug,Closed,Low,Arjun Das,17/Oct/24 11:13 AM,18/Oct/24 09:46 AM,,Alpha Sprint 4,Reports,Nova,Requirements gap,3,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1050,51050,Bug,Done,Medium,Sneha Iyer,17/Sep/24 11:39 PM,25/Sep/24 02:00 AM,,Alpha Sprint 2,Reports,Nova,Requirements gap,5,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1067,51067,Bug,Closed,High,Meera Nair,06/Oct/24 03:27 AM,09/Oct/24 07:50 AM,,Alpha Sprint 3,Authentication,Titan,Environment / config,8,Project Alpha
+Performance: defect in checkout flow,ALPHA-1189,51189,Bug,Done,High,Sneha Iyer,26/Nov/24 06:48 PM,01/Dec/24 04:45 AM,,Alpha Sprint 7,Checkout,Phoenix,Performance,1,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1085,51085,Bug,Done,Highest,Karan Patel,19/Oct/24 09:58 PM,22/Oct/24 12:10 AM,,Alpha Sprint 4,Checkout,Phoenix,Requirements gap,5,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1181,51181,Bug,Done,Medium,Sneha Iyer,09/Nov/24 10:40 AM,16/Nov/24 03:07 PM,,Alpha Sprint 6,Reports,Nova,Integration issue,3,Project Alpha
+Coding error: defect in payments flow,ALPHA-1090,51090,Bug,Closed,Low,Sneha Iyer,15/Oct/24 04:03 PM,21/Oct/24 11:38 AM,,Alpha Sprint 4,Payments,Orion,Coding error,3,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1018,51018,Bug,Done,Medium,Karan Patel,01/Sep/24 05:22 PM,03/Sep/24 10:46 AM,,Alpha Sprint 1,Reports,Nova,Environment / config,8,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1041,51041,Bug,Done,High,Karan Patel,11/Sep/24 02:57 PM,16/Sep/24 11:21 PM,Alpha Sprint 1,Alpha Sprint 2,Authentication,Titan,Environment / config,5,Project Alpha
+Performance: defect in reports flow,ALPHA-1228,51228,Bug,Done,High,Sneha Iyer,13/Dec/24 09:53 AM,18/Dec/24 07:26 AM,,Alpha Sprint 8,Reports,Nova,Performance,3,Project Alpha
+Documentation: defect in reports flow,ALPHA-1015,51015,Bug,Closed,Low,Vikram Rao,01/Sep/24 06:26 PM,03/Sep/24 09:19 PM,,Alpha Sprint 1,Reports,Nova,Documentation,1,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1177,51177,Bug,Done,Medium,Arjun Das,08/Nov/24 02:19 PM,14/Nov/24 01:57 AM,,Alpha Sprint 6,Reports,Nova,Integration issue,5,Project Alpha
+User story 1056,ALPHA-1056,51056,Story,Done,Medium,Arjun Das,15/Sep/24 05:39 PM,,,Alpha Sprint 2,,Phoenix,,5,Project Alpha
+Test data: defect in reports flow,ALPHA-1073,51073,Bug,Done,Medium,Meera Nair,02/Oct/24 11:30 AM,09/Oct/24 04:43 PM,Alpha Sprint 2,Alpha Sprint 3,Reports,Nova,Test data,5,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1211,51211,Bug,Done,Medium,Karan Patel,15/Dec/24 03:17 AM,18/Dec/24 09:50 PM,Alpha Sprint 7,Alpha Sprint 8,Checkout,Phoenix,Requirements gap,5,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1126,51126,Bug,Done,Medium,Vikram Rao,21/Oct/24 03:58 PM,25/Oct/24 04:23 AM,,Alpha Sprint 5,Reports,Nova,Requirements gap,2,Project Alpha
+Environment / config: defect in checkout flow,ALPHA-1084,51084,Bug,Closed,Medium,Vikram Rao,08/Oct/24 10:00 AM,10/Oct/24 02:53 PM,,Alpha Sprint 4,Checkout,Phoenix,Environment / config,2,Project Alpha
+Coding error: defect in checkout flow,ALPHA-1083,51083,Bug,Closed,Medium,Vikram Rao,19/Oct/24 11:27 AM,20/Oct/24 06:25 AM,,Alpha Sprint 4,Checkout,Phoenix,Coding error,8,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1062,51062,Bug,In Progress,Highest,Meera Nair,27/Sep/24 10:55 AM,01/Oct/24 11:24 PM,Alpha Sprint 2,Alpha Sprint 3,Checkout,Phoenix,Requirements gap,3,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1042,51042,Bug,In Progress,High,Sneha Iyer,21/Sep/24 02:28 AM,21/Sep/24 05:54 PM,,Alpha Sprint 2,Authentication,Titan,Requirements gap,3,Project Alpha
+Coding error: defect in payments flow,ALPHA-1091,51091,Bug,In Progress,Low,Vikram Rao,09/Oct/24 10:19 PM,15/Oct/24 01:52 PM,,Alpha Sprint 4,Payments,Orion,Coding error,3,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1201,51201,Bug,Done,Medium,Karan Patel,19/Nov/24 06:52 PM,25/Nov/24 07:52 AM,,Alpha Sprint 7,Reports,Nova,Integration issue,5,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1224,51224,Bug,In Progress,High,Sneha Iyer,13/Dec/24 10:01 PM,14/Dec/24 07:14 PM,,Alpha Sprint 8,Reports,Nova,Requirements gap,2,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1164,51164,Bug,Done,High,Karan Patel,16/Nov/24 11:31 AM,23/Nov/24 06:24 PM,,Alpha Sprint 6,Authentication,Titan,Requirements gap,3,Project Alpha
+Coding error: defect in reports flow,ALPHA-1170,51170,Bug,Closed,Medium,Karan Patel,06/Nov/24 01:18 AM,13/Nov/24 02:01 PM,,Alpha Sprint 6,Reports,Nova,Coding error,5,Project Alpha
+UI / UX: defect in checkout flow,ALPHA-1188,51188,Bug,Done,High,Sneha Iyer,25/Nov/24 10:07 PM,02/Dec/24 05:56 PM,,Alpha Sprint 7,Checkout,Phoenix,UI / UX,3,Project Alpha
+Coding error: defect in reports flow,ALPHA-1049,51049,Bug,Closed,Low,Vikram Rao,12/Sep/24 08:59 PM,16/Sep/24 12:08 AM,Alpha Sprint 1,Alpha Sprint 2,Reports,Nova,Coding error,8,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1216,51216,Bug,Done,Medium,Karan Patel,07/Dec/24 01:40 AM,11/Dec/24 01:05 AM,,Alpha Sprint 8,Authentication,Titan,Requirements gap,2,Project Alpha
+Coding error: defect in checkout flow,ALPHA-1086,51086,Bug,Done,Medium,Vikram Rao,08/Oct/24 02:08 AM,13/Oct/24 03:45 PM,,Alpha Sprint 4,Checkout,Phoenix,Coding error,2,Project Alpha
+User story 1229,ALPHA-1229,51229,Story,Done,Medium,Arjun Das,03/Dec/24 07:00 PM,,,Alpha Sprint 8,,Phoenix,,5,Project Alpha
+Performance: defect in authentication flow,ALPHA-1008,51008,Bug,Closed,High,Sneha Iyer,03/Sep/24 01:34 AM,10/Sep/24 04:55 PM,,Alpha Sprint 1,Authentication,Titan,Performance,1,Project Alpha
+User story 1080,ALPHA-1080,51080,Story,Done,Medium,Arjun Das,27/Sep/24 07:04 AM,,,Alpha Sprint 3,,Phoenix,,5,Project Alpha
+Environment / config: defect in reports flow,ALPHA-1121,51121,Bug,Done,Highest,Meera Nair,26/Oct/24 12:54 PM,29/Oct/24 06:50 AM,Alpha Sprint 4,Alpha Sprint 5,Reports,Nova,Environment / config,8,Project Alpha
+Coding error: defect in reports flow,ALPHA-1123,51123,Bug,Done,Low,Sneha Iyer,26/Oct/24 09:10 AM,28/Oct/24 03:00 AM,Alpha Sprint 4,Alpha Sprint 5,Reports,Nova,Coding error,3,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1167,51167,Bug,Done,Medium,Meera Nair,16/Nov/24 11:11 PM,19/Nov/24 02:12 PM,,Alpha Sprint 6,Reports,Nova,Requirements gap,3,Project Alpha
+Coding error: defect in reports flow,ALPHA-1078,51078,Bug,Closed,Medium,Arjun Das,02/Oct/24 11:51 AM,03/Oct/24 02:12 PM,,Alpha Sprint 3,Reports,Nova,Coding error,1,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1162,51162,Bug,Closed,Medium,Vikram Rao,12/Nov/24 05:56 PM,16/Nov/24 11:50 AM,Alpha Sprint 5,Alpha Sprint 6,Authentication,Titan,Requirements gap,3,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1118,51118,Bug,Done,Highest,Meera Nair,21/Oct/24 05:35 PM,27/Oct/24 10:52 AM,Alpha Sprint 4,Alpha Sprint 5,Authentication,Titan,Integration issue,3,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1094,51094,Bug,Closed,Low,Sneha Iyer,17/Oct/24 06:19 PM,22/Oct/24 02:44 PM,,Alpha Sprint 4,Authentication,Titan,Coding error,5,Project Alpha
+Integration issue: defect in payments flow,ALPHA-1141,51141,Bug,Closed,Low,Karan Patel,07/Nov/24 06:49 AM,12/Nov/24 07:44 AM,,Alpha Sprint 6,Payments,Orion,Integration issue,3,Project Alpha
+User story 1231,ALPHA-1231,51231,Story,Done,Medium,Arjun Das,06/Dec/24 02:11 PM,,,Alpha Sprint 8,,Phoenix,,5,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1099,51099,Bug,Closed,Highest,Sneha Iyer,10/Oct/24 05:29 PM,15/Oct/24 04:51 PM,Alpha Sprint 3,Alpha Sprint 4,Authentication,Titan,Integration issue,1,Project Alpha
+User story 1057,ALPHA-1057,51057,Story,Done,Medium,Arjun Das,09/Sep/24 10:02 AM,,,Alpha Sprint 2,,Phoenix,,5,Project Alpha
+Environment / config: defect in payments flow,ALPHA-1146,51146,Bug,Done,Medium,Sneha Iyer,06/Nov/24 02:09 PM,08/Nov/24 07:22 PM,,Alpha Sprint 6,Payments,Orion,Environment / config,5,Project Alpha
+UI / UX: defect in authentication flow,ALPHA-1157,51157,Bug,Closed,High,Karan Patel,10/Nov/24 02:01 AM,16/Nov/24 12:57 PM,,Alpha Sprint 6,Authentication,Titan,UI / UX,3,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1222,51222,Bug,In Progress,Low,Karan Patel,06/Dec/24 04:49 AM,12/Dec/24 09:56 PM,Alpha Sprint 7,Alpha Sprint 8,Authentication,Titan,Coding error,2,Project Alpha
+Coding error: defect in payments flow,ALPHA-1213,51213,Bug,Done,Low,Arjun Das,06/Dec/24 06:42 PM,11/Dec/24 10:52 AM,,Alpha Sprint 8,Payments,Orion,Coding error,1,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1140,51140,Bug,Done,Low,Arjun Das,04/Nov/24 07:44 PM,10/Nov/24 07:01 PM,Alpha Sprint 5,Alpha Sprint 6,Payments,Orion,Requirements gap,3,Project Alpha
+User story 1023,ALPHA-1023,51023,Story,Done,Medium,Arjun Das,01/Sep/24 06:44 PM,,,Alpha Sprint 1,,Phoenix,,5,Project Alpha
+Integration issue: defect in payments flow,ALPHA-1063,51063,Bug,Done,High,Vikram Rao,03/Oct/24 04:18 AM,06/Oct/24 05:39 PM,,Alpha Sprint 3,Payments,Orion,Integration issue,3,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1071,51071,Bug,In Progress,Medium,Sneha Iyer,30/Sep/24 04:20 PM,04/Oct/24 12:14 AM,,Alpha Sprint 3,Authentication,Titan,Environment / config,2,Project Alpha
+Coding error: defect in reports flow,ALPHA-1197,51197,Bug,Done,Medium,Sneha Iyer,30/Nov/24 07:55 AM,05/Dec/24 06:22 AM,,Alpha Sprint 7,Reports,Nova,Coding error,2,Project Alpha
+UI / UX: defect in authentication flow,ALPHA-1148,51148,Bug,Closed,Low,Arjun Das,16/Nov/24 06:11 AM,19/Nov/24 11:34 PM,,Alpha Sprint 6,Authentication,Titan,UI / UX,1,Project Alpha
+Coding error: defect in reports flow,ALPHA-1105,51105,Bug,Done,High,Meera Nair,11/Oct/24 02:59 PM,15/Oct/24 03:51 AM,,Alpha Sprint 4,Reports,Nova,Coding error,5,Project Alpha
+Performance: defect in reports flow,ALPHA-1076,51076,Bug,Closed,Low,Sneha Iyer,25/Sep/24 01:20 PM,01/Oct/24 08:29 PM,,Alpha Sprint 3,Reports,Nova,Performance,1,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1034,51034,Bug,In Progress,Medium,Karan Patel,15/Sep/24 06:18 AM,23/Sep/24 08:40 AM,,Alpha Sprint 2,Payments,Orion,Requirements gap,3,Project Alpha
+User story 1131,ALPHA-1131,51131,Story,Done,Medium,Arjun Das,29/Oct/24 04:47 AM,,,Alpha Sprint 5,,Phoenix,,5,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1203,51203,Bug,In Progress,Medium,Meera Nair,27/Nov/24 02:06 PM,30/Nov/24 07:07 PM,Alpha Sprint 6,Alpha Sprint 7,Reports,Nova,Requirements gap,2,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1113,51113,Bug,Done,Low,Arjun Das,02/Nov/24 03:04 PM,06/Nov/24 04:21 AM,,Alpha Sprint 5,Payments,Orion,Requirements gap,1,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1038,51038,Bug,In Progress,Medium,Sneha Iyer,13/Sep/24 08:22 PM,17/Sep/24 01:20 AM,Alpha Sprint 1,Alpha Sprint 2,Authentication,Titan,Environment / config,5,Project Alpha
+Integration issue: defect in payments flow,ALPHA-1137,51137,Bug,Closed,Medium,Arjun Das,16/Nov/24 09:12 AM,22/Nov/24 06:32 PM,,Alpha Sprint 6,Payments,Orion,Integration issue,1,Project Alpha
+Performance: defect in authentication flow,ALPHA-1152,51152,Bug,Closed,Low,Karan Patel,17/Nov/24 07:04 AM,18/Nov/24 03:50 PM,Alpha Sprint 5,Alpha Sprint 6,Authentication,Titan,Performance,3,Project Alpha
+Test data: defect in authentication flow,ALPHA-1120,51120,Bug,In Progress,Highest,Meera Nair,23/Oct/24 05:42 PM,26/Oct/24 01:48 PM,,Alpha Sprint 5,Authentication,Titan,Test data,3,Project Alpha
+User story 1022,ALPHA-1022,51022,Story,Done,Medium,Arjun Das,28/Aug/24 11:22 PM,,,Alpha Sprint 1,,Phoenix,,5,Project Alpha
+Integration issue: defect in payments flow,ALPHA-1214,51214,Bug,Done,Medium,Karan Patel,10/Dec/24 08:10 PM,19/Dec/24 04:55 AM,,Alpha Sprint 8,Payments,Orion,Integration issue,3,Project Alpha
+UI / UX: defect in checkout flow,ALPHA-1132,51132,Bug,In Progress,Medium,Karan Patel,04/Nov/24 06:21 PM,06/Nov/24 02:50 PM,Alpha Sprint 5,Alpha Sprint 6,Checkout,Phoenix,UI / UX,2,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1153,51153,Bug,Done,High,Meera Nair,14/Nov/24 01:16 AM,16/Nov/24 05:17 AM,Alpha Sprint 5,Alpha Sprint 6,Authentication,Titan,Integration issue,1,Project Alpha
+Performance: defect in reports flow,ALPHA-1016,51016,Bug,In Progress,Low,Karan Patel,27/Aug/24 09:28 PM,01/Sep/24 10:56 PM,,Alpha Sprint 1,Reports,Nova,Performance,5,Project Alpha
+Coding error: defect in payments flow,ALPHA-1031,51031,Bug,Done,High,Karan Patel,15/Sep/24 03:34 AM,19/Sep/24 09:54 PM,,Alpha Sprint 2,Payments,Orion,Coding error,1,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1043,51043,Bug,Done,Medium,Sneha Iyer,20/Sep/24 05:48 PM,24/Sep/24 03:00 AM,,Alpha Sprint 2,Authentication,Titan,Integration issue,8,Project Alpha
+Coding error: defect in reports flow,ALPHA-1166,51166,Bug,In Progress,Low,Sneha Iyer,11/Nov/24 07:44 PM,20/Nov/24 08:02 AM,,Alpha Sprint 6,Reports,Nova,Coding error,3,Project Alpha
+UI / UX: defect in payments flow,ALPHA-1089,51089,Bug,Done,High,Meera Nair,08/Oct/24 04:09 AM,11/Oct/24 08:11 PM,,Alpha Sprint 4,Payments,Orion,UI / UX,1,Project Alpha
+User story 1079,ALPHA-1079,51079,Story,Done,Medium,Arjun Das,23/Sep/24 12:15 PM,,,Alpha Sprint 3,,Phoenix,,5,Project Alpha
+Performance: defect in checkout flow,ALPHA-1029,51029,Bug,In Progress,Low,Sneha Iyer,17/Sep/24 12:34 PM,22/Sep/24 01:20 AM,,Alpha Sprint 2,Checkout,Phoenix,Performance,2,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1074,51074,Bug,Closed,Highest,Meera Nair,06/Oct/24 01:25 AM,13/Oct/24 11:29 PM,Alpha Sprint 2,Alpha Sprint 3,Reports,Nova,Requirements gap,1,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1218,51218,Bug,Done,Medium,Vikram Rao,10/Dec/24 12:29 AM,11/Dec/24 01:53 AM,,Alpha Sprint 8,Authentication,Titan,Environment / config,3,Project Alpha
+Coding error: defect in checkout flow,ALPHA-1061,51061,Bug,Done,Highest,Arjun Das,02/Oct/24 06:08 AM,07/Oct/24 03:31 AM,,Alpha Sprint 3,Checkout,Phoenix,Coding error,3,Project Alpha
+UI / UX: defect in checkout flow,ALPHA-1112,51112,Bug,Done,High,Karan Patel,22/Oct/24 09:03 AM,26/Oct/24 04:11 AM,,Alpha Sprint 5,Checkout,Phoenix,UI / UX,5,Project Alpha
+Coding error: defect in payments flow,ALPHA-1004,51004,Bug,Done,Medium,Arjun Das,03/Sep/24 03:34 AM,06/Sep/24 07:32 PM,,Alpha Sprint 1,Payments,Orion,Coding error,3,Project Alpha
+Environment / config: defect in checkout flow,ALPHA-1134,51134,Bug,Done,Medium,Meera Nair,08/Nov/24 07:04 AM,16/Nov/24 08:29 AM,,Alpha Sprint 6,Checkout,Phoenix,Environment / config,5,Project Alpha
+Integration issue: defect in payments flow,ALPHA-1032,51032,Bug,Done,Medium,Arjun Das,19/Sep/24 12:19 PM,21/Sep/24 05:12 AM,,Alpha Sprint 2,Payments,Orion,Integration issue,8,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1065,51065,Bug,Closed,Low,Karan Patel,27/Sep/24 10:50 PM,05/Oct/24 02:15 PM,,Alpha Sprint 3,Payments,Orion,Requirements gap,1,Project Alpha
+Test data: defect in checkout flow,ALPHA-1026,51026,Bug,Done,High,Sneha Iyer,12/Sep/24 05:45 AM,20/Sep/24 09:25 AM,,Alpha Sprint 2,Checkout,Phoenix,Test data,2,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1212,51212,Bug,Done,Low,Vikram Rao,08/Dec/24 12:56 PM,12/Dec/24 06:29 PM,,Alpha Sprint 8,Payments,Orion,Requirements gap,3,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1010,51010,Bug,Done,Medium,Vikram Rao,26/Aug/24 07:43 PM,28/Aug/24 06:00 PM,,Alpha Sprint 1,Authentication,Titan,Requirements gap,2,Project Alpha
+User story 1207,ALPHA-1207,51207,Story,Done,Medium,Arjun Das,30/Nov/24 02:05 PM,,,Alpha Sprint 7,,Phoenix,,5,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1139,51139,Bug,Done,Medium,Karan Patel,11/Nov/24 06:42 PM,12/Nov/24 01:25 PM,,Alpha Sprint 6,Payments,Orion,Requirements gap,1,Project Alpha
+Documentation: defect in authentication flow,ALPHA-1161,51161,Bug,In Progress,High,Sneha Iyer,09/Nov/24 01:54 AM,13/Nov/24 11:06 AM,,Alpha Sprint 6,Authentication,Titan,Documentation,3,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1070,51070,Bug,Done,Low,Arjun Das,02/Oct/24 12:04 AM,07/Oct/24 05:46 AM,,Alpha Sprint 3,Authentication,Titan,Coding error,5,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1160,51160,Bug,Done,High,Vikram Rao,09/Nov/24 04:25 AM,13/Nov/24 01:36 PM,,Alpha Sprint 6,Authentication,Titan,Requirements gap,8,Project Alpha
+Coding error: defect in reports flow,ALPHA-1174,51174,Bug,Done,Medium,Arjun Das,05/Nov/24 01:19 AM,10/Nov/24 08:52 PM,,Alpha Sprint 6,Reports,Nova,Coding error,8,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1069,51069,Bug,Done,Medium,Vikram Rao,24/Sep/24 07:41 AM,25/Sep/24 09:39 PM,,Alpha Sprint 3,Authentication,Titan,Coding error,5,Project Alpha
+Requirements gap: defect in authentication flow,ALPHA-1159,51159,Bug,Done,High,Karan Patel,09/Nov/24 02:11 PM,18/Nov/24 09:01 AM,,Alpha Sprint 6,Authentication,Titan,Requirements gap,8,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1165,51165,Bug,In Progress,High,Meera Nair,13/Nov/24 07:26 AM,20/Nov/24 01:40 PM,,Alpha Sprint 6,Authentication,Titan,Coding error,3,Project Alpha
+Integration issue: defect in authentication flow,ALPHA-1009,51009,Bug,Closed,Medium,Meera Nair,04/Sep/24 11:35 PM,10/Sep/24 09:29 AM,,Alpha Sprint 1,Authentication,Titan,Integration issue,3,Project Alpha
+Coding error: defect in authentication flow,ALPHA-1011,51011,Bug,Done,Medium,Arjun Das,05/Sep/24 02:33 AM,13/Sep/24 09:34 AM,,Alpha Sprint 1,Authentication,Titan,Coding error,3,Project Alpha
+User story 1208,ALPHA-1208,51208,Story,Done,Medium,Arjun Das,27/Nov/24 04:11 AM,,,Alpha Sprint 7,,Phoenix,,5,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1012,51012,Bug,Done,Low,Arjun Das,29/Aug/24 01:40 PM,04/Sep/24 01:51 AM,,Alpha Sprint 1,Reports,Nova,Requirements gap,3,Project Alpha
+Performance: defect in authentication flow,ALPHA-1163,51163,Bug,Closed,Medium,Karan Patel,05/Nov/24 09:30 PM,09/Nov/24 07:12 PM,,Alpha Sprint 6,Authentication,Titan,Performance,2,Project Alpha
+Environment / config: defect in authentication flow,ALPHA-1117,51117,Bug,Done,High,Meera Nair,29/Oct/24 04:13 PM,05/Nov/24 09:51 AM,,Alpha Sprint 5,Authentication,Titan,Environment / config,2,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1199,51199,Bug,Done,Medium,Arjun Das,29/Nov/24 06:16 PM,04/Dec/24 04:49 AM,,Alpha Sprint 7,Reports,Nova,Requirements gap,1,Project Alpha
+Integration issue: defect in reports flow,ALPHA-1102,51102,Bug,Done,High,Meera Nair,10/Oct/24 02:40 AM,15/Oct/24 04:57 PM,,Alpha Sprint 4,Reports,Nova,Integration issue,3,Project Alpha
+User story 1108,ALPHA-1108,51108,Story,Done,Medium,Arjun Das,16/Oct/24 11:01 PM,,,Alpha Sprint 4,,Phoenix,,5,Project Alpha
+Requirements gap: defect in payments flow,ALPHA-1036,51036,Bug,Done,Medium,Vikram Rao,11/Sep/24 04:45 AM,15/Sep/24 10:57 AM,,Alpha Sprint 2,Payments,Orion,Requirements gap,2,Project Alpha
+Requirements gap: defect in checkout flow,ALPHA-1058,51058,Bug,Done,Medium,Meera Nair,03/Oct/24 12:53 AM,04/Oct/24 04:04 AM,,Alpha Sprint 3,Checkout,Phoenix,Requirements gap,5,Project Alpha
+Coding error: defect in payments flow,ALPHA-1006,51006,Bug,Done,High,Vikram Rao,04/Sep/24 01:02 PM,09/Sep/24 10:13 PM,,Alpha Sprint 1,Payments,Orion,Coding error,2,Project Alpha
+Coding error: defect in reports flow,ALPHA-1172,51172,Bug,Done,Low,Vikram Rao,13/Nov/24 07:17 AM,16/Nov/24 11:47 PM,,Alpha Sprint 6,Reports,Nova,Coding error,1,Project Alpha
+User story 1130,ALPHA-1130,51130,Story,Done,Medium,Arjun Das,28/Oct/24 09:29 PM,,,Alpha Sprint 5,,Phoenix,,5,Project Alpha
+Requirements gap: defect in reports flow,ALPHA-1052,51052,Bug,Done,Low,Arjun Das,19/Sep/24 01:13 PM,24/Sep/24 06:02 AM,,Alpha Sprint 2,Reports,Nova,Requirements gap,5,Project Alpha
